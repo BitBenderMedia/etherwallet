@@ -1,7 +1,19 @@
 [
   {
+    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+    "symbol": "$GALA",
+    "decimal": 8,
+    "type": "default"
+  },
+  {
     "address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
     "symbol": "$FFC",
+    "decimal": 18,
+    "type": "default"
+  },
+  {
+    "address": "0xefd720c94659f2ccb767809347245f917a145ed8",
+    "symbol": "$QUO",
     "decimal": 18,
     "type": "default"
   },
